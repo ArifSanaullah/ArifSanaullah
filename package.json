@@ -1,0 +1,23 @@
+{
+  "name": "ArifSanaullah",
+  "version": "1.0.0",
+  "description": "<!-- **ArifSanaullah/ArifSanaullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArifSanaullah/ArifSanaullah.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArifSanaullah/ArifSanaullah/issues"
+  },
+  "homepage": "https://github.com/ArifSanaullah/ArifSanaullah#readme",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
